@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<schuelerListe>
+    <schueler>
+        <jahrgang>1986</jahrgang>
+        <name>Klaus Peter</name>
+        <nummer>12</nummer>
+    </schueler>
+    <schueler>
+        <jahrgang>1999</jahrgang>
+        <name>Dieter Ulrich</name>
+        <nummer>3</nummer>
+    </schueler>
+    <schueler>
+        <jahrgang>1965</jahrgang>
+        <name>Wolfgang Pieper</name>
+        <nummer>5</nummer>
+    </schueler>
+</schuelerListe>
